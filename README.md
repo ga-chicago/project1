@@ -37,7 +37,7 @@ Your app must:
 
 ### Would be really nice if...
 
-* Your game used at least one thing/technology/resource we didn't explicitly study in class (Some API or Library? D3? Three.js? Skeleton or Bootstrap? Firebase? Canvas? Phaser.io?)
+* Your game used at least one thing/technology/resource we didn't explicitly study in class (Some API or Library? D3? Three.js? Skeleton or Bootstrap? Firebase? Canvas? Phaser.io? CSS Keyframes and Animation?)
 
 ---
 
